@@ -78,7 +78,7 @@ Order Growth: The line chart shows an upward trend in orders, particularly in 20
 
 
 
-6. Employee Insights Dashboard
+5. Employee Insights Dashboard
 Description: This dashboard provides insights into employee-related metrics, including total employee count, average salary, and hiring trends. Key components are:
 Total Employee Count: 1000 employees, with an average salary of 13,732.
 Department-Wise Analysis: Shows employee count, salary, and commission distribution across the top 20 departments.
