@@ -38,27 +38,6 @@ Cost Variability: Gurgaon has the highest average cost per meal, whereas cities 
 Customer Satisfaction: Cities like Gurgaon and Agra have the highest average ratings, showing high customer satisfaction in these areas.
 Popular Chains: Wow Momo, Taco Bell, and Subway are among the most widespread brands, indicating their successful expansion strategy.
 
-
-
-3. Sales Dashboard
-Description
-Key Metrics: Shows total sales, profit, and profit ratio, providing an overview of financial performance.
-Sales by Year: Line chart showing sales trends over time.
-Sales by Region: Ring charts displaying sales distribution across Central, East, South, and West regions.
-Category Sales Trends: A heatmap showing yearly sales for different product sub-categories.
-Geographical Sales Distribution: Map of the U.S. indicating sales volume by state.
-Top Performing Sub-Categories: Bar chart comparing sales by sub-category, highlighting which products perform well.
-Regional Product Sales Comparison: Regional comparison of sales in different sub-categories.
-
-Insights
-Sales Growth Over Time: Sales have shown a general upward trend, indicating successful business growth.
-Regional Leaders: The West region leads in sales, followed by the East, with significant opportunities for growth in the Central and South regions.
-High Demand Product Categories: Phones, Paper, and Accessories are the best-selling categories, while Tables and Supplies underperform.
-State-wise Sales Leaders: California, Texas, and New York dominate in sales, while states like Montana and Kansas have lower sales, suggesting potential areas for expansion.
-Moderate Profit Ratio: A 12.46% profit ratio indicates a reasonable level of profitability but room for improvement.
-
-
-
 4. Coorporation Dashboard
 Description: This dashboard provides an overview of key performance metrics for Tanish Corp, focusing on sales, costs, and profits over a period from January 2017 to December 2020. Key components of the dashboard include:
 Overall Metrics: Displays total sales (1.3M), costs (640.6K), and profits (627.0K).
