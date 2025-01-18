@@ -1,76 +1,83 @@
-1. Blinkit Sales Analysis Dashboard
-Description
-Key Metrics: The dashboard highlights overall sales, average MRP, and gross profit margin, giving a snapshot of Blinkit's financial performance.
-Top 10 Sales: Displays the top 10 product categories by sales, such as fruits, snacks, and household items.
-Outlet Average Sales: Compares average sales by outlet type, showing which outlet types contribute most to revenue.
-Outlet Location Sales Variability: Shows sales distribution across Tier 1, Tier 2, and Tier 3 cities.
-Outlet Sizewise Sales: Breaks down sales by outlet size, indicating which size category brings in the most revenue.
-Type of Fat Contained Items: Pie chart categorizing items by their fat content (e.g., low fat, regular).
-Average MRP with Outlet Location: Compares the average MRP of items across different outlet locations.
-Item Visibility: A treemap showing the visibility of different item types.
-Outlet Sales by Year: Line chart showing the yearly sales trend by outlet establishment year.
+## Dashboard Summaries
 
-Insights
-High Profitability: With a gross profit margin of 93.53%, Blinkit is operating with strong profitability.
-Popular Product Categories: Fruits and snacks lead in sales, showing consumer preference for fresh produce and convenience foods.
-Outlet Performance: Grocery stores have the highest average sales, while larger outlets contribute more to overall sales.
-Geographical Sales Distribution: Tier 3 locations contribute the highest sales, indicating strong demand in smaller cities or rural areas.
-High Visibility in Key Categories: "Fruits and Vegetables" and "Snack Foods" have high visibility, aligning with consumer interest.
-Regional Price Variability: Average MRPs vary across locations, suggesting tailored pricing strategies based on region.
+### 1. Blinkit Sales Analysis Dashboard  
+**Key Metrics**  
+- Highlights overall sales, average MRP, and gross profit margin, providing a snapshot of Blinkit's financial performance.  
+- **Gross Profit Margin:** 93.53%, indicating strong profitability.  
 
+**Key Features**  
+- **Top 10 Sales Categories:** Displays top-selling categories like fruits, snacks, and household items.  
+- **Outlet Average Sales:** Compares sales performance by outlet type to identify revenue contributors.  
+- **Outlet Location Sales Variability:** Shows sales distribution across Tier 1, Tier 2, and Tier 3 cities.  
+- **Outlet Size-wise Sales:** Breaks down sales by outlet size, revealing the most revenue-generating outlet category.  
+- **Type of Fat Contained Items:** Pie chart categorizing items by fat content (e.g., low fat, regular).  
+- **Average MRP by Outlet Location:** Compares item pricing across different outlet locations.  
+- **Item Visibility:** Treemap visualizing item type visibility.  
+- **Outlet Sales by Year:** Line chart showing yearly sales trends by outlet establishment year.  
 
-
-2. Zomato Sales Analysis Dashboard
-Description
-Key Metrics: Displays the total number of restaurants, average cost, average rating, and total votes, offering an overview of Zomato’s reach and customer satisfaction.
-Top Rating Foods: Images of popular, highly-rated foods like Kanti Sweets, Wow Momos, and Taco Bell.
-Number of Restaurants in Cities: Bar chart showing restaurant counts in major cities.
-Average Rating of Cities: List of cities with average ratings, showing customer satisfaction levels across locations.
-Top 10 Restaurants in Various Cities: Bubble chart highlighting popular restaurant chains.
-Average Cost in Cities: City-wise average dining costs, providing insight into pricing variations across regions.
-Number of Branches: Treemap showing the number of branches by brand.
-Top 5 Restaurants by Average Rating and Location: Highlights top-rated restaurants across cities with a minimum rating threshold.
-
-Insights
-Diverse Culinary Preferences: Top brands like "Kanti Sweets" and "Taco Bell" reflect a mix of local and international tastes.
-High Restaurant Density in Major Cities: Delhi and Kolkata have the highest concentration of restaurants, which aligns with their large populations and food culture.
-Cost Variability: Gurgaon has the highest average cost per meal, whereas cities like Kochi are more budget-friendly.
-Customer Satisfaction: Cities like Gurgaon and Agra have the highest average ratings, showing high customer satisfaction in these areas.
-Popular Chains: Wow Momo, Taco Bell, and Subway are among the most widespread brands, indicating their successful expansion strategy.
-
-4. Coorporation Dashboard
-Description: This dashboard provides an overview of key performance metrics for Tanish Corp, focusing on sales, costs, and profits over a period from January 2017 to December 2020. Key components of the dashboard include:
-Overall Metrics: Displays total sales (1.3M), costs (640.6K), and profits (627.0K).
-Customer List: Shows details of top customers by sales, costs, and profits.
-KPIs by Sub-Categories: A bar chart illustrating sales distribution across different product sub-categories.
-Business by Countries Served: A map visualization highlighting sales distribution by country.
-Quantity Sold by Region: A pie chart showing sales volume across regions (North, South, Central).
-Total Orders by Quarter & Shipping Mode: A line chart tracking order trends by quarter, segmented by shipping mode.
-
-Insights
-High Profit Margin: With 1.3M in sales and 640.6K in costs, Tanish Corp’s profit margin is strong at nearly 50%.
-Top Performing Sub-Categories: Sub-categories like "Bookcases," "Chairs," and "Appliances" lead in sales, indicating high customer demand in these areas.
-Geographical Concentration: Sales appear concentrated in certain European countries, suggesting strong market presence there. There may be opportunities to expand into underrepresented regions.
-Regional Sales Distribution: Central region holds the highest sales volume (55.11%), showing it as a key market. North and South regions contribute less, indicating potential for growth if tapped effectively.
-Order Growth: The line chart shows an upward trend in orders, particularly in 2020, possibly due to increased demand or effective marketing. Seasonal patterns may be present, which can guide inventory and logistics planning.
+**Insights**  
+- **Popular Product Categories:** Fruits and snacks lead in sales.  
+- **Geographical Sales Distribution:** Tier 3 locations contribute the highest sales.  
+- **High Visibility Categories:** "Fruits and Vegetables" and "Snack Foods" have high visibility.  
+- **Regional Price Variability:** Tailored pricing strategies are evident.  
 
 
+### 2. Zomato Sales Analysis Dashboard  
+**Key Metrics**  
+- Total restaurants, average cost, average rating, and total votes offer an overview of Zomato's operations.  
+
+**Key Features**  
+- **Top-Rated Foods:** Images of popular foods like Kanti Sweets, Wow Momos, and Taco Bell.  
+- **Restaurant Distribution by City:** Bar chart of restaurant counts in major cities.  
+- **Average Ratings by City:** Customer satisfaction levels across cities.  
+- **Top 10 Restaurants by City:** Bubble chart showcasing popular chains.  
+- **Average Cost by City:** Highlights pricing variations across regions.  
+- **Branches by Brand:** Treemap displaying the number of branches for major brands.  
+- **Top 5 Restaurants:** Highlights top-rated restaurants across cities.  
+
+**Insights**  
+- **Diverse Preferences:** Brands like "Kanti Sweets" and "Taco Bell" reflect local and international tastes.  
+- **High Density in Major Cities:** Delhi and Kolkata have the highest restaurant counts.  
+- **Cost Variability:** Gurgaon has the highest average cost per meal.  
+- **Customer Satisfaction:** High ratings in Gurgaon and Agra.  
+- **Popular Chains:** Successful brands include Wow Momo, Taco Bell, and Subway.  
 
 
-5. Employee Insights Dashboard
-Description: This dashboard provides insights into employee-related metrics, including total employee count, average salary, and hiring trends. Key components are:
-Total Employee Count: 1000 employees, with an average salary of 13,732.
-Department-Wise Analysis: Shows employee count, salary, and commission distribution across the top 20 departments.
-Top 20 Employees by Salary: A matrix visual listing top earners, highlighting departments where the highest salaries are paid.
-Manager-Employee Ratio: Details the ratio of managers to employees across various departments, with the top 25 displayed.
-Avg Salary per Job Segment: A pie chart showing salary averages across different job segments.
-Employee Count by Hire Date: A trend line showing the hiring pattern over the years.
-Salary vs. Experience (Hire Date): A line chart illustrating the relationship between hire date and salary, potentially reflecting tenure-based salary growth.
+### 3. Corporation Dashboard  
+**Key Metrics**  
+- Total Sales: **1.3M**  
+- Total Costs: **640.6K**  
+- Total Profits: **627.0K**  
 
-Insights
-Department Analysis: "Animal Nutritionist" has the highest headcount (43 employees) and also leads in salary distribution, suggesting it is a critical department for the organization.
-High Salary Departments: Applications Developers and Animal Nutritionists are among the highest-paid roles, which may indicate their specialized skill requirements.
-Manager-Employee Ratio: Departments with lower ratios may indicate potential for hiring more managers to balance the workload. Higher ratios could suggest effective management or fewer employees requiring direct supervision.
-Hiring Trends: The year 2017 saw the highest number of hires (114), potentially due to expansion or increased project demands. Hiring slowed slightly in recent years.
-Salary and Experience Correlation: Generally, salaries appear to increase with experience, peaking around 2017, then slightly decreasing. This could reflect organizational policies or shifts in hiring higher-paid, experienced professionals.
+**Key Features**  
+- **Customer List:** Details top customers by sales, costs, and profits.  
+- **KPIs by Sub-Categories:** Bar chart of sales distribution across sub-categories.  
+- **Sales by Countries Served:** Map visualizing sales by country.  
+- **Sales Volume by Region:** Pie chart of regional sales distribution (North, South, Central).  
+- **Orders by Quarter & Shipping Mode:** Line chart tracking order trends.  
 
+**Insights**  
+- **High Profit Margin:** Nearly 50% profitability.  
+- **Top Sub-Categories:** Bookcases, chairs, and appliances lead in sales.  
+- **Geographical Concentration:** Strong presence in European countries.  
+- **Order Growth:** Steady upward trend in 2020, possibly due to increased demand or marketing.  
+
+
+### 4. Employee Insights Dashboard  
+**Key Metrics**  
+- **Total Employees:** 1000  
+- **Average Salary:** 13,732  
+
+**Key Features**  
+- **Department-Wise Analysis:** Employee count, salary, and commission distribution across departments.  
+- **Top 20 Employees by Salary:** Highlights top earners and their departments.  
+- **Manager-Employee Ratio:** Displays ratios across departments.  
+- **Avg Salary per Job Segment:** Pie chart of average salaries by job segment.  
+- **Hiring Trends:** Line chart of employee count over hire dates.  
+- **Salary vs. Experience:** Line chart showing the correlation between salary and hire date.  
+
+**Insights**  
+- **Top Department:** "Animal Nutritionist" leads in headcount and salary distribution.  
+- **High Salary Roles:** Applications Developers and Animal Nutritionists dominate.  
+- **Manager-Employee Ratio:** Identifies potential areas for managerial adjustments.  
+- **Hiring Trends:** 2017 saw the highest number of hires.  
