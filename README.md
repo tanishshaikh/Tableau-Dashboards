@@ -22,25 +22,24 @@
 - **Regional Price Variability:** Tailored pricing strategies are evident.  
 
 
-### 2. Zomato Sales Analysis Dashboard  
+### 2. Employee Insights Dashboard  
 **Key Metrics**  
-- Total restaurants, average cost, average rating, and total votes offer an overview of Zomato's operations.  
+- **Total Employees:** 1000  
+- **Average Salary:** 13,732  
 
 **Key Features**  
-- **Top-Rated Foods:** Images of popular foods like Kanti Sweets, Wow Momos, and Taco Bell.  
-- **Restaurant Distribution by City:** Bar chart of restaurant counts in major cities.  
-- **Average Ratings by City:** Customer satisfaction levels across cities.  
-- **Top 10 Restaurants by City:** Bubble chart showcasing popular chains.  
-- **Average Cost by City:** Highlights pricing variations across regions.  
-- **Branches by Brand:** Treemap displaying the number of branches for major brands.  
-- **Top 5 Restaurants:** Highlights top-rated restaurants across cities.  
+- **Department-Wise Analysis:** Employee count, salary, and commission distribution across departments.  
+- **Top 20 Employees by Salary:** Highlights top earners and their departments.  
+- **Manager-Employee Ratio:** Displays ratios across departments.  
+- **Avg Salary per Job Segment:** Pie chart of average salaries by job segment.  
+- **Hiring Trends:** Line chart of employee count over hire dates.  
+- **Salary vs. Experience:** Line chart showing the correlation between salary and hire date.  
 
 **Insights**  
-- **Diverse Preferences:** Brands like "Kanti Sweets" and "Taco Bell" reflect local and international tastes.  
-- **High Density in Major Cities:** Delhi and Kolkata have the highest restaurant counts.  
-- **Cost Variability:** Gurgaon has the highest average cost per meal.  
-- **Customer Satisfaction:** High ratings in Gurgaon and Agra.  
-- **Popular Chains:** Successful brands include Wow Momo, Taco Bell, and Subway.  
+- **Top Department:** "Animal Nutritionist" leads in headcount and salary distribution.  
+- **High Salary Roles:** Applications Developers and Animal Nutritionists dominate.  
+- **Manager-Employee Ratio:** Identifies potential areas for managerial adjustments.  
+- **Hiring Trends:** 2017 saw the highest number of hires. 
 
 
 ### 3. Corporation Dashboard  
@@ -63,21 +62,22 @@
 - **Order Growth:** Steady upward trend in 2020, possibly due to increased demand or marketing.  
 
 
-### 4. Employee Insights Dashboard  
+ ### 4. Zomato Sales Analysis Dashboard  
 **Key Metrics**  
-- **Total Employees:** 1000  
-- **Average Salary:** 13,732  
+- Total restaurants, average cost, average rating, and total votes offer an overview of Zomato's operations.  
 
 **Key Features**  
-- **Department-Wise Analysis:** Employee count, salary, and commission distribution across departments.  
-- **Top 20 Employees by Salary:** Highlights top earners and their departments.  
-- **Manager-Employee Ratio:** Displays ratios across departments.  
-- **Avg Salary per Job Segment:** Pie chart of average salaries by job segment.  
-- **Hiring Trends:** Line chart of employee count over hire dates.  
-- **Salary vs. Experience:** Line chart showing the correlation between salary and hire date.  
+- **Top-Rated Foods:** Images of popular foods like Kanti Sweets, Wow Momos, and Taco Bell.  
+- **Restaurant Distribution by City:** Bar chart of restaurant counts in major cities.  
+- **Average Ratings by City:** Customer satisfaction levels across cities.  
+- **Top 10 Restaurants by City:** Bubble chart showcasing popular chains.  
+- **Average Cost by City:** Highlights pricing variations across regions.  
+- **Branches by Brand:** Treemap displaying the number of branches for major brands.  
+- **Top 5 Restaurants:** Highlights top-rated restaurants across cities.  
 
 **Insights**  
-- **Top Department:** "Animal Nutritionist" leads in headcount and salary distribution.  
-- **High Salary Roles:** Applications Developers and Animal Nutritionists dominate.  
-- **Manager-Employee Ratio:** Identifies potential areas for managerial adjustments.  
-- **Hiring Trends:** 2017 saw the highest number of hires.  
+- **Diverse Preferences:** Brands like "Kanti Sweets" and "Taco Bell" reflect local and international tastes.  
+- **High Density in Major Cities:** Delhi and Kolkata have the highest restaurant counts.  
+- **Cost Variability:** Gurgaon has the highest average cost per meal.  
+- **Customer Satisfaction:** High ratings in Gurgaon and Agra.  
+- **Popular Chains:** Successful brands include Wow Momo, Taco Bell, and Subway.  
